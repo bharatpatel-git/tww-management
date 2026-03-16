@@ -2,6 +2,8 @@
 
 An internal hotel management system built with **React**, **Vite**, and **Supabase**.
 
+> **Note**: I built this project while learning and practicing from the course **[The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/)** by Jonas Schmedtmann. The original course project was "The Wild Oasis," which I have rebranded here.
+
 ## Key Features
 
 - **Dashboard**: Real-time overview of bookings, check-ins, and occupancy.
@@ -17,6 +19,7 @@ An internal hotel management system built with **React**, **Vite**, and **Supaba
 ## Deployment
 
 ### GitHub
+
 1. Create a new repository on GitHub.
 2. Initialize git: `git init` (if not already done).
 3. Add files: `git add .`
@@ -25,6 +28,7 @@ An internal hotel management system built with **React**, **Vite**, and **Supaba
 6. Push: `git push -u origin main`
 
 ### Vercel
+
 1. Connect your GitHub repository to Vercel.
 2. Add the environment variables (`VITE_SUPABASE_URL` and `VITE_SUPABASE_KEY`) in the Vercel project settings.
 3. Vercel will automatically detect Vite and deploy your project!
