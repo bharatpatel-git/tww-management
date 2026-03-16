@@ -2,7 +2,7 @@
 
 An internal hotel management system built with **React**, **Vite**, and **Supabase**.
 
-> **Note**: I built this project while learning and practicing from the course **[The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/)** by Jonas Schmedtmann. The original course project was "The Wild Oasis," which I have rebranded here.
+> **Note**: I built this project while learning and practicing from the course **[The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/)** by Jonas Schmedtmann.
 
 ## Key Features
 
