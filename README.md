@@ -32,3 +32,8 @@ An internal hotel management system built with **React**, **Vite**, and **Supaba
 1. Connect your GitHub repository to Vercel.
 2. Add the environment variables (`VITE_SUPABASE_URL` and `VITE_SUPABASE_KEY`) in the Vercel project settings.
 3. Vercel will automatically detect Vite and deploy your project!
+
+
+## Note
+
+This repository is still under development and I will continue to add more features to it.
